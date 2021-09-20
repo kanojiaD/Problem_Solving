@@ -18,7 +18,8 @@ Output:
 */
 
 import java.util.*;
-class Weird_Algorithms{
+//please change the class name 'WeirdAlgorithms' as 'Main', when you are submitting the code on CSES.
+class WeirdAlgorithms{
 	public static void main(String[] args) {
 		Scanner scan= new Scanner(System.in);
 		long n= scan.nextLong(); // n should be long because there would be a point where after multiplying with 3, n will exceed the range of integer. 

@@ -20,6 +20,7 @@ Output:
 4
 */
 import java.util.*;
+//please change the class name 'MissingNumber' as 'Main', when you are submitting the code on CSES.
 class MissingNumber{
 	public static void main(String[] args) {
 		Scanner scan= new Scanner(System.in);
